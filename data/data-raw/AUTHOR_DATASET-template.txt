@@ -1,0 +1,6 @@
+﻿This DATSETNAMEreadme.txt file was generated on YYYY-MM-DD by NAME
+
+    This folder contains the raw data collected for this research project,
+    should not be modified and must be kept for recording keeping.
+
+You can find information related to the raw data in the dataset text (.txt) files in the project's data folder

@@ -4,7 +4,7 @@
 #'
 #' @export
 #' @name examplefunction
-#' @author Francisco Rodriguez-Sanchez
+#' @author author name
 #' @param text Message to print.
 #' @seealso \url{http://r-pkgs.had.co.nz/man.html}
 #' @examples

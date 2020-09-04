@@ -7,8 +7,8 @@
 #'
 #' @name template-package
 #' @docType package
-#' @author Francisco Rodriguez-Sanchez
+#' @author author name
 #' @keywords package
-#' @details For detailed steps on how to use the package see \url{https://github.com/Pakillo/template/blob/master/README.md}.
+#' @details explain details
 #'
 NULL
