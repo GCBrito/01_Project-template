@@ -1,5 +1,5 @@
 This README.txt file was generated on YYYY-MM-DD by NAME
-"Here you can find revelant information about this project, including
+"Here you can find relevant information about this project, including
 description, contact info, copyright info, DOIs and other resources."
 
 # Project-name

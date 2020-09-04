@@ -51,9 +51,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# pkgdown site
-docs/
-
 # translation temp files
 po/*~
 
@@ -393,7 +390,7 @@ $RECYCLE.BIN/
 
 
 
-##Python 
+##Python
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

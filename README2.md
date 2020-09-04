@@ -3,7 +3,6 @@ This README.txt file was generated on YYYY-MM-DD by NAME
 description, contact info, copyright info, DOIs and other resources.**
 
 # Project-name
-
 Describe the project briefly
 
 ## General information
