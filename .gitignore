@@ -24,7 +24,6 @@
 .stignore
 Thumbs.db
 *._gstmp
-.gitkeep
 .gitmodules
 ~$*.doc*
 ~$*.ppt*
