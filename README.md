@@ -1,12 +1,18 @@
-# Project-template
+This README.txt file was generated on YYYY-MM-DD by NAME
+**Here you can find revelant information about this project, including
+description, contact info, copyright info, DOIs and other resources.**
 
-###  Describe the project briefly
+# Project-name
+Describe the project briefly
 
--   General information
-    -   Dataset title
+## General information
+
+-   Dataset title
+
     -   Investigators names, roles and contact info (include [OrcID](http://libguides.graduateinstitute.ch/metrics/orcid) if available)
     -   Grant information
     -   DOI for the reference version of the dataset
+
 -   Your data and the world
     -   Licences and restrictions placed on (parts of) the dataset
     -   Links to publications based on the dataset
@@ -41,5 +47,3 @@
     -   Quality control procedure applied
     -   Description of file versioning system if appropriate
     -   Dataset changelog
-
-    what
