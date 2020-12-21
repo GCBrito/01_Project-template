@@ -13,13 +13,9 @@
 #####
 
 ################ GoodSync ################## 
-*.knit.md
 *.tmp
-*.utf8.md
 *.xlk
 .DS_Store
-.git
-.gitignore
 .stfolder
 .stignore
 Thumbs.db
@@ -77,9 +73,6 @@ _gsdata_
 
 # R Environment Variables
 .Renviron
-
-# pkgdown site
-#docs/
 
 # translation temp files
 po/*~
@@ -862,7 +855,7 @@ $RECYCLE.BIN/
 #Icon
 
 # Thumbnails
-._*
+#._*
 
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
@@ -915,14 +908,14 @@ __pycache__/
 develop-eggs/
 #dist/
 #downloads/
-eggs/
-.eggs/
+#eggs/
+#.eggs/
 #lib/
 #lib64/
 #parts/
-sdist/
+#sdist/
 #var/
-wheels/
+#wheels/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
@@ -933,7 +926,7 @@ share/python-wheels/
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
-*.spec
+#*.spec
 
 # Installer logs
 pip-log.txt
@@ -950,9 +943,9 @@ nosetests.xml
 coverage.xml
 *.cover
 *.py,cover
-.hypothesis/
+#.hypothesis/
 .pytest_cache/
-cover/
+#cover/
 
 # Translations
 *.mo
