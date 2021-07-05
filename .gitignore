@@ -31,6 +31,15 @@ _gsdata_
 #Same as GoodSync
 
 
+*.scriv/Files/binder.autosave
+*.scriv/Files/binder.backup
+*.scriv/Files/search.indexes
+*.scriv/Files/user.lock
+*.scriv/Files/Docs/docs.checksum
+*.scriv/Files/Data/docs.checksum
+*.scriv/QuickLook/
+*.scriv/Settings/ui.plist
+
 
 #################   R   ###################
 
